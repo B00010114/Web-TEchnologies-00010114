@@ -1,0 +1,56 @@
+<!--Team Section-->
+<section class="teams" id="teams">
+    <div class="max-width">
+        <h2 class="title">My Team</h2>
+        <div class="carousel">
+            <div class="card">
+                <div class="box">
+                <img src="media/team1.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                <img src="media/team2.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                <img src="media/team3.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                <img src="media/team1.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                <img src="media/team1.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                <img src="media/team1.jpg" alt="">
+                <div class="text">Someone name</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+               </div>
+            </div>
+        </div> 
+    </div>
+</section>
+
