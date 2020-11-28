@@ -1,0 +1,23 @@
+<!--About Section-->
+
+<section class="about" id="about">
+    <div class="max-width">
+        <h2 class="title">About me</h2>
+        <div class="about-content">
+            <div class="column left">
+                <img src="media/profile.jpg" alt="profile">
+            </div>
+            <div class="column right">
+                <div class="text">I am Sabriddin and I am a <span>Desinger</span></div>
+                <p>I am 20! I am from Fergana, Uzbekistan. I have been working as a web-desinger for a long time- since I remember myself. I have a very strong passion in everything I do. Every client is really important for me.
+                   I am very experienced. I have had membership with more than 100+ well-known companies around the world. You can have a very detailed look at my CV in the link provided below. By the way, the website is not done by me. 
+                   I am not even aware of this website. it was created from scratch by 00010114 to fulfil the requirements of CW given by Web Technologies module at WIUT. 
+                </p>
+                <a href="media/resume1.pdf" target="_blank">Download CV</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
